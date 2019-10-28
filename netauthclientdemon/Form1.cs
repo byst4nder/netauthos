@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace netauthclientdemon
 {
-    public partial class Form1 : Form
+    public partial class netauthclientdemon : Form
     {
-        public Form1()
+        public netauthclientdemon()
         {
             InitializeComponent();
         }
