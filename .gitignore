@@ -5,3 +5,5 @@
 /.vs
 /netauthclientdemon/obj
 /netauthserver/obj
+/netauthserver/bin/Debug/netcoreapp2.2
+/netauthclientdemon
